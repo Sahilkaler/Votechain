@@ -1,22 +1,53 @@
-# VoteChain - A Blockchain Voting Project
+<h1 align="center">
+ <em> VoteChain - A Blockchain Voting Project </em>
+</h1>
+ 
 
-## Problem Statement
+# Problem Statement
 
 In today's electoral landscape, the voting system suffers from biases, lack of transparency, and security concerns that erode trust in the democratic process. Traditional voting methods are susceptible to manipulation, fraud, and inefficiencies, leading to a growing need for a more secure, transparent, and accessible voting system. To address these challenges, our project, VoteChain, seeks to revolutionize the electoral process by leveraging blockchain technology to create a tamper-proof and verifiable voting system.
 
-## Overview
+# Overview
 
 This project is an implementation of a secure and transparent voting system using blockchain technology. It aims to revolutionize the way elections are conducted, ensuring trust, integrity, and accessibility in the voting process.
 
+# Login Page
+<div align="center"><a name="menu"></a>
 
-## Features
+<img src="/src/ImagesGithub/Login.jpg" />
+
+</div>
+
+# Home Page
+<div align="center"><a name="menu"></a>
+
+<img src="/src/ImagesGithub/Home.png" />
+
+</div>
+
+# Stats Page
+<div align="center"><a name="menu"></a>
+
+<img src="/src/ImagesGithub/LiveStats.png" />
+
+</div>
+
+# Know More Page
+<div align="center"><a name="menu"></a>
+
+<img src="/src/ImagesGithub/KnowMore.png" />
+
+</div>
+
+
+# Features
 
 - **Security**: Votes are securely recorded on the blockchain, making them tamper-proof and transparent.
 - **Transparency**: The voting process is transparent and verifiable, enhancing trust in election results.
 - **Accessibility**: Remote voting options ensure that everyone can participate in the democratic process.
 - **User-Friendly**: An intuitive interface makes it easy for voters to cast their ballots.
 
-## Technologies Used
+# Technologies Used
 
 - React
 - Volta (Test Net)
@@ -24,7 +55,7 @@ This project is an implementation of a secure and transparent voting system usin
 - React Bootstrap (for styling)
 - Solidity (for smart contract development)
 
-## Getting Started
+# Getting Started
 
 1. Clone the repository:
 
